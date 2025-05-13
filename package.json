@@ -1,0 +1,23 @@
+{
+  "name": "22-project_figma",
+  "version": "1.0.0",
+  "description": "landing page",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisovtema/project_figma.git"
+  },
+  "author": "Tema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisovtema/project_figma/issues"
+  },
+  "homepage": "https://github.com/denisovtema/project_figma#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0",
+    "sass": "^1.88.0"
+  }
+}
